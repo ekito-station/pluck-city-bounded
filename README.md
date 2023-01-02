@@ -1,5 +1,5 @@
 # Pluck City -bounded-
-"Pluck City" is a Sound AR work that plays sounds by plucking AR strings stretched across space. 
+"Pluck City" is an Audio AR work that plays sounds by plucking AR strings stretched across space. 
 "Pluck City -bounded-" is developed from "Pluck City -harmonized-" and dedicated to urban-scale experiences.
 
 Pluck City -harmonized-: 
