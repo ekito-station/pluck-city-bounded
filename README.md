@@ -11,3 +11,6 @@ A sound is played as you approach one string, followed by a sound from the next 
 A melody is played from a series of strings.
 
 PLATEAU's 3D city models and Geospatial API are utilized for collision detection of balls and buildings.
+
+## Requirement
+- Unity 2020.3.30f1
